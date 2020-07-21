@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+main{
+    background-color: #36922C;
+    border: groove;
+    padding: 10px;
+    margin: auto;
+  }
